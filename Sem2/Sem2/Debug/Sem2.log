@@ -1,0 +1,4 @@
+﻿  Sem2.cpp
+D:\Informatika\Sem2\Sem2\Sem2.cpp(4,15): warning C4305: инициализация: усечение из "int" в "char"
+D:\Informatika\Sem2\Sem2\Sem2.cpp(4,11): warning C4309: инициализация: усечение константного значения
+  Sem2.vcxproj -> D:\Informatika\Sem2\Debug\Sem2.exe

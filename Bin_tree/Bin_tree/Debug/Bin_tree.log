@@ -1,0 +1,4 @@
+﻿  Bin_tree.cpp
+D:\Informatika\Bin_tree\Bin_tree\Bin_tree.cpp(202,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Informatika\Bin_tree\Bin_tree\Bin_tree.cpp(203,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Bin_tree.vcxproj -> D:\Informatika\Bin_tree\Debug\Bin_tree.exe
